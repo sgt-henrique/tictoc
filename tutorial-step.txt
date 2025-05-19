@@ -1,1 +1,7 @@
 https://docs.omnetpp.org/tutorials/tictoc/part1/
+
+- Create NED file;
+- Create C++ file
+	a) dont forget Define_Module();
+	b) try to debug it:
+		i) 
